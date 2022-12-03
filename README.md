@@ -2,8 +2,6 @@
 <hr>
 This is a simple Chat made using Websockets in Golang.
 <hr>
-
-![Demo Online](/git-img/demo.png?raw=true "Demo Online")
+<img src="/git-img/demo.png?raw=true" width="auto" height="300" alt="Demo online />
 <hr>
-
-![Demo Offline](/git-img/demo-disconnected.png?raw=true "Demo Offline")
+<img src="/git-img/demo-disconnected.png?raw=true" width="auto" height="300" alt="Demo offline />
